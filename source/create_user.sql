@@ -1,5 +1,5 @@
 -- Master
-CREATE LOGIN ETLUser WITH PASSWORD = 'Pa$$w0rd'
+CREATE LOGIN ETLUser WITH PASSWORD = '<password>'
 CREATE USER ETLUser FOR LOGIN ETLUser
 
 -- SQL dedicated
